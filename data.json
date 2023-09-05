@@ -1,0 +1,24 @@
+{
+    "transactions": [
+        {
+            "category": "transportation",
+            "value": -42
+        },
+        {
+            "category": "income",
+            "value": 1234
+        },
+        {
+            "category": "income",
+            "value": 1234.2
+        },
+        {
+            "category": "corn for poney",
+            "value": -12
+        },
+        {
+            "category": "corn for poney",
+            "value": -102.13
+        }
+    ]
+}
